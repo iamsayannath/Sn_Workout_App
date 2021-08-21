@@ -1,0 +1,2 @@
+com/snWorkoutApp/BuildConfig.java
+ com.snWorkoutApp.BuildConfig
